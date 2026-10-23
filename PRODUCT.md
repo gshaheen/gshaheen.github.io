@@ -47,7 +47,7 @@ Desktop and mobile browsers. Single-mode ultra light grey (`#f4f4f5`) environmen
 - Pinned GitHub Repos:
   - `dispatch`: Strategic Git platform for agentic era (`https://dispatch.gshaheen.workers.dev`).
   - `resourcedeck`: Local-first desktop PMO capacity tool (`https://resourcedeck.app`).
-  - `allocations`: Visual portfolio allocation engine (`https://github.com/gshaheen/allocations`).
+  - `allocations`: Visual portfolio allocation engine (`https://georgeshaheen.com/allocations/`).
 - Professional profile: LinkedIn (`https://www.linkedin.com/in/georgeshaheen/`).
 
 ## Product Principles
